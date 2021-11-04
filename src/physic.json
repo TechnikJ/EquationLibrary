@@ -1,0 +1,14 @@
+{
+  "equations":[
+    {
+      "name":"Mass-energy equivalence",
+      "equation-latex":"\\\\E = mc^2",
+      "author":"Albert Einstein",
+      "result":"E",
+      "description":"",
+      "category":"",
+      "sort-word":["",""],
+      "links":["",""]
+    }
+  ]
+}
