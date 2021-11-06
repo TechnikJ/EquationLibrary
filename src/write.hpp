@@ -1,5 +1,4 @@
-#ifndef __EQ_WRITE_
-#define __EQ_WRITE_
+#pragma once
 
 #include<string>
 #include "../vendor/JSON/json.hpp"
@@ -16,5 +15,3 @@ namespace EQ{
             static void splitString(std::string t_inputString, std::vector<std::string> &t_outputVector, char t_splitArg);
     };
 }
-
-#endif
