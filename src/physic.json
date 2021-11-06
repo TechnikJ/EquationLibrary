@@ -1,14 +1,28 @@
 {
-  "equations":[
-    {
-      "name":"Mass-energy equivalence",
-      "equation-latex":"\\\\E = mc^2",
-      "author":"Albert Einstein",
-      "result":"E",
-      "description":"",
-      "category":"",
-      "sort-word":["",""],
-      "links":["",""]
+  "equations":{
+    "math":{
+
+    },
+    "physic":{
+      "optic":{
+        "0":{
+          "name":"Law of reflection",
+          "equation-latex":"\\theta_i = \\theta_r",
+          "author":"Not Known",
+          "result":"none",
+          "description":"The angle of incidence equals the angle of reflection",
+          "sort-word":["reflection"]
+        },
+        "1":{
+          "name":"Law of reflection",
+          "equation-latex":"\\theta_i = \\theta_r",
+          "author":"Not Known",
+          "result":"none",
+          "description":"The angle of incidence equals the angle of reflection",
+          "sort-word":["reflection"]
+        }
+      }
+    },
+    "chemistry":{}
     }
-  ]
 }
