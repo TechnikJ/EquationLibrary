@@ -4,6 +4,7 @@ project(EquationLibrary)
 
 set(SRCS
     ${CMAKE_CURRENT_SOURCE_DIR}/src/write.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/src/read.cpp
 )
 
 #configure_file(${CMAKE_CURRENT_SOURCE_DIR}/src/physic.json ${CMAKE_CURRENT_BINARY_DIR}/physic.json COPYONLY)
